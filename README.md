@@ -35,3 +35,9 @@ Para ignorar alterações e manter o que tem no servidor:
 git checkout -- . 
 
 Após: git pull 
+
+
+Dicas e fontes:
+https://www.git-tower.com/blog/git-cheat-sheet/
+https://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large01.png
+
