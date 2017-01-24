@@ -36,6 +36,10 @@ git checkout -- .
 
 Após: git pull 
 
+git diff -> mostra as diferenças
+git checkout -b nome-da-branch (cria uma nova branch)
+git checkout nome-da-branch (para acessar a branch, se estiver em outro local)
+
 
 Dicas e fontes:
 https://www.git-tower.com/blog/git-cheat-sheet/
